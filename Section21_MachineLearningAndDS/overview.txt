@@ -1,0 +1,50 @@
+Narrow AI - Machines can be just as good or better than humans at specific tasks
+
+Machine Learning - Subset of AI; The science of getting machines to do things without explicit programming. Pattern recognition. 
+
+Data Science - 
+
+
+Algorithm/Bot/Model
+
+
+History of Data: [Exponential improvements in CPUs/GPUs [Computations] and Size of Big Data]
+
+Spreadsheets (Excel, CSV)
+
+Relational Databases (MySQL)
+
+Big Data (NoSQL, MongoDB)
+
+Machine Learning (Machines process data)
+
+Machine Learning  - Predicting Results (outputs) based on incoming data (inputs)
+
+ML Model Categories:
+
+Supervised Learning [classification, regression]
+    Labeled Data
+
+Unsupervised Learning [association rule learning, clustering]
+    Unlabeled Data
+
+Reinforcement Learning [real time learning, skill acquisition]
+
+
+K Nearest Neighbor (KNN)
+
+
+1 - Import Data (Use lots of data, preferably cleaned)
+2 - Clean Data (Missing Data, Bad Data, Corrupted Data, Unordered Data)
+3 - Split Data (Training Data Set | Test Data Set)
+4 - Create a Model (Import pre-built Algorithm for our needs)
+5 - Check the output (with test data set)
+6 - Improve (Increase Training Data, Change the Model)
+
+Goal Defining -> Data Gathering -> Data Parsing -> Model Creation -> Accuracy Testing
+
+Google and Facebook have access to large amounts of proprietary user data hence they can pioneer machine learning and artificial intelligence. They may sure their models, but they won't share their data since that is their competitive advantage.
+
+Python is one of the most popular languages when using machine learning. Has a ton of modules and libraries. It's very efficient and expressive and has the best tools for data visualization, data science and machine learning/AI (Ex. NumPy, Pandas, Scikit Learn, Matpotlib, Anaconda's Jupyter Notebooks)
+
+We can get our data from Kaggle (Free access to large openly accessible datasets)

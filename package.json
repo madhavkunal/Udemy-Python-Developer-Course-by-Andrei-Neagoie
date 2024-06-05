@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prettier": "^3.0.0-alpha.6"
+  },
+  "dependencies": {
+    "coinbase": "^2.0.8",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "alor-pretatma.easy-runner",
+        "giyyapan.pyformat",
+        "ms-python.black-formatter",
+        "ms-python.pylint",
+        "ms-python.isort",
+        "alexcvzz.vscode-sqlite",
+        "github.vscode-github-actions"
+    ]
+}

@@ -1,0 +1,10 @@
+"""
+
+On large complex projects with multiple folders and files, testing becomes important. It becomes more difficult for people to fix bugs after code breaks. It is easier to test code snippets, functions and modules to detect breaks earlier and fix simpler errors one-by-one. 
+
+Usually we have a main.py file where we aggregate all our custom modules, and built in modules and we run the main.py file with typing ' python main.py ' in the terminal.
+to and a test.py file for each module (test.py is only called upon typing ' pytest ' into the terminal)
+
+Linters such as pylint and PEP 8 standards are a good way to format your code conventionally so other programmers can easily understand by following the same standards. It also helps make code readability better, and prevents some simple errors and bugs such as syntax or spacing issues from occuring. After linting, testing is a way to test simple, missed, and tougher errors and bugs line by line in files, modules, functions and classes. Readability is important in testing. 
+    
+"""

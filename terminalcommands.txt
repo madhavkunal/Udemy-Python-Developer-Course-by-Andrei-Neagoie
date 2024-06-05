@@ -1,0 +1,12 @@
+cd -> change directory
+cd "C:\<directory>" -> change directory when names have spaces in between 
+cls -> clear terminal
+cd .. -> move back one directory
+dir -> lists present working directory
+sfc /scannow -> scan and repair corrupt windows system files
+chkdsk -> checks disk for errors and fixes them
+copy -> copies files from one location to another
+del -> deletes files
+mkdir -> make a new folder
+rmdir -> remove a folder
+exit -> close command propt

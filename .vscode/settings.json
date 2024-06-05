@@ -1,0 +1,70 @@
+{
+	"workbench.iconTheme": "vscode-icons",
+	"comments.visible": false,
+	"cSpell.words": [
+		"borgie",
+		"bulbasaur",
+		"charmander",
+		"doublecheck",
+		"Dunkin",
+		"fileactions",
+		"filetext",
+		"hellooo",
+		"helloooo",
+		"hiiii",
+		"icecreamstand",
+		"imread",
+		"imshow",
+		"jayjay",
+		"Jerrys",
+		"Madhav",
+		"Neagoie",
+		"occuring",
+		"Papos",
+		"passlen",
+		"PEMDAS",
+		"pikachu",
+		"Pokedex",
+		"Pokédex",
+		"pyjokes",
+		"Squirtle",
+		"stepover",
+		"stringlen",
+		"stringlength",
+		"Substack",
+		"supercoder",
+		"Tikachu",
+		"tracebacks",
+		"Udemy"
+	],
+	"[python]": {
+		"editor.formatOnSave": false,
+		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.formatOnType": true,
+		"editor.formatOnPaste": true,
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": "never"
+		}
+	},
+	"isort.args": ["--profile", "black"],
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit"
+	},
+	"editor.defaultFormatter": "ms-python.black-formatter",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"cmake.options.statusBarVisibility": "visible",
+	"C_Cpp.files.exclude": {
+		"**/.vscode": true,
+		"**/.vs": true
+	},
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features",
+		"editor.wordWrap": "on"
+	},
+	"editor.wordWrap": "on",
+	"diffEditor.wordWrap": "on",
+	"chat.editor.wordWrap": "on",
+	"notebook.output.wordWrap": true,
+	"editor.wordWrapColumn": 80
+}
